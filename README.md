@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-# 🌟 Hey, I'm Sri Ganesh Arjula! 
+# 🌟 Hey, I'm Sri Ganesh! 
 🚀 **AI/ML Engineer** with a passion for revolutionizing healthcare through cutting-edge tech. Currently diving deep into **machine learning for real-time clinical decision support**, building **AI-powered skincare chatbots**, and developing a **carpooling application** using FastAPI with real-time features. When I'm not training models, you can find me fine-tuning advanced deep learning frameworks and experimenting with generative AI techniques!
 
 ### 🔬 What I'm Working On:
